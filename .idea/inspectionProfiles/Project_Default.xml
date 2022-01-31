@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="django.db.reverse" />
+          <option value="str.andswith" />
+          <option value="handlers.users.purchase.Command" />
+          <option value="keyboards.inline.choice_buttons.IKM" />
+          <option value="keyboards.inline.choice_buttons.PEAR_LINK" />
+          <option value="mainapp.models.PositionCategory" />
+          <option value="mainapp.models.Car" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
